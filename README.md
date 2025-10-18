@@ -1,5 +1,5 @@
-# imap_mayflower
-Mass Email Relocation for Insanely Large Inboxes
+# The IMAP Mayflower
+Legal Mass Migration for Insanely Overpopulated Inboxes
 
 A Python script to efficiently archive large volumes of emails from your IMAP inbox to a designated archive folder, processing them in manageable batches to avoid server timeouts.
 
