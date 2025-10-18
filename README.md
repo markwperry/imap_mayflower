@@ -67,7 +67,7 @@ python execute.py
 
 | Variable | Description | Default |
 |----------|-------------|---------|
-| `MAIL_HOST` | IMAP server hostname | `imap.mail.us-west-2.awsapps.com` |
+| `MAIL_HOST` | IMAP server hostname | Required |
 | `MAIL_USER` | Your email address | Required |
 | `MAIL_PASS` | Your email password | Required |
 | `MAIL_SOURCE_BOX` | Source mailbox to archive from | `INBOX` |
